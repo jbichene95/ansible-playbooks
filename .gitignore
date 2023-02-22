@@ -1,0 +1,5 @@
+*.pem
+*.pkk
+*key*
+inventory
+hosts
